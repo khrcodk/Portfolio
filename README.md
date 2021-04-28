@@ -69,7 +69,7 @@
 
 ***
 
-## [booking Meeting](https://github.com/heerokim/Portfolio-BLOG.git)
+## [booking Meeting](https://github.com/khrcodk/Portfolio-Meeting.git)
 
 ### 要約
 
